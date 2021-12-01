@@ -8,4 +8,4 @@ https://pubmed.ncbi.nlm.nih.gov/20654646/
 
 ## Code maintenance
 
-This code is no longer maintained by its author, which is why it is stored on our account. Feel free to claim it if you are the author and we will transfer the repository.
+This code is no longer maintained by its authors, which is why it is stored on our account. Feel free to claim it if you are the author and we will transfer the repository.
