@@ -30,7 +30,7 @@
 
 function vers = eegplugin_FASTER(fig, trystrs, catchstrs)
 
-    vers = 'FASTERv1.2.3b';
+    vers = 'FASTERv1.2.4';
     if nargin < 3
         error('eegplugin_FASTER requires 3 arguments');
     end
